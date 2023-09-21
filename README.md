@@ -1,5 +1,5 @@
 # Tic-Tac-Toe
- A command-line interface TTT game, taht is super epik
+ A command-line interface TTT game -:
 
 ʜᴏᴡ ᴛᴏ ᴘʟᴀʏ:
 ᴛɪᴄ-ᴛᴀᴄ-ᴛᴏᴇ ɪꜱ ᴀ ᴛᴡᴏ-ᴘʟᴀʏᴇʀ ɢᴀᴍᴇ. ᴛᴏ ꜱᴛᴀʀᴛ, ᴅᴇᴄɪᴅᴇ ʙᴇᴛᴡᴇᴇɴ "ʜᴇᴀᴅꜱ" ᴀɴᴅ "ᴛᴀɪʟꜱ". ᴛʜᴇ ɢᴀᴍᴇ ᴡɪʟʟ ᴅᴇᴄɪᴅᴇ ᴡʜᴏ ᴡɪɴꜱ ʙᴀꜱᴇᴅ ᴏɴ ᴘᴜʀᴇ ʀᴀɴᴅᴏᴍɴᴇꜱꜱ.
